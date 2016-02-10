@@ -2,7 +2,7 @@
 Topological Sort App - Hybrid Route
 
 
-Ok guys, first, if you haven't done so, read this: https://guides.github.com/activities/hello-world/.  This is how GitHub works and this will prevent us from deleting or writing over things that we shouldn't.
+Ok guys, first, if you haven't done so, read this: https://guides.github.com/activities/hello-world/.  This is how GitHub works and this will prevent us from deleting or writing over things that we shouldn't (i.e. editing the branches and not the master).
 
 Second, here is an outline of the project.  Let's continue to edit this and add to it so everybody knows what's going on.  Revise your timeline and tasks as you see fit.  This is just a rough draft that Michael and I sketched out.
 
