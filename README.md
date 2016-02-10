@@ -8,6 +8,7 @@ Second, here is an outline of the project.  Let's continue to edit this and add 
 
 
   I.  Task: Write/convert topological sort code
+  
     a.  People involved:
       i. Michael and Sarah?
     b. Language/software used:
@@ -17,7 +18,9 @@ Second, here is an outline of the project.  Let's continue to edit this and add 
       ii. Data cleaning/trimming
     d. Timeline:
       i. Goal: Completed code by Friday at 11:59 PM
+      
   II. Task: Create GUI
+  
     a. People involved:
       i. Clayton and Jordan/Mark?
     b. Language/software used:
@@ -27,7 +30,9 @@ Second, here is an outline of the project.  Let's continue to edit this and add 
       ii. Run program button
     d. Timeline:
       i. Goal: Completed code by Friday at 11:59 PM
+      
   III.Task: Combine
+
     a. People involved:
       i. Wei and Jordan/Mark?
     b. Jobs: 
